@@ -1,0 +1,1 @@
+{"root":["./src/AnalyticsPage.tsx","./src/App.tsx","./src/BrandsPage.tsx","./src/HomePage.tsx","./src/Login.tsx","./src/ProfilePage.tsx","./src/hooks.ts","./src/main.tsx","./src/components/Brand.tsx","./src/components/Sparkline.tsx","./src/mocks/analytics.ts","./src/mocks/brands.ts","./src/mocks/profile.ts"],"version":"6.0.3"}
